@@ -1,0 +1,5678 @@
+[
+	{
+		"id": 167,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/167",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 2968,
+		"isLeaf": false,
+		"name": "nav_167",
+		"children": [
+			{
+				"id": 180,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/180",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 98,
+				"isLeaf": false,
+				"name": "北京",
+				"children": [
+					{
+						"id": 181,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/181",
+						"isRoot": false,
+						"parentId": 180,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 182,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/182",
+						"isRoot": false,
+						"parentId": 180,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 14,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 183,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/183",
+						"isRoot": false,
+						"parentId": 180,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 41,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 184,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/184",
+						"isRoot": false,
+						"parentId": 180,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 185,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/185",
+						"isRoot": false,
+						"parentId": 180,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 571,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/571",
+						"isRoot": false,
+						"parentId": 180,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 18,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 306,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/306",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 55,
+				"isLeaf": false,
+				"name": "上海",
+				"children": [
+					{
+						"id": 307,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/307",
+						"isRoot": false,
+						"parentId": 306,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 308,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/308",
+						"isRoot": false,
+						"parentId": 306,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 309,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/309",
+						"isRoot": false,
+						"parentId": 306,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 22,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 310,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/310",
+						"isRoot": false,
+						"parentId": 306,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 311,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/311",
+						"isRoot": false,
+						"parentId": 306,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 592,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/592",
+						"isRoot": false,
+						"parentId": 306,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 324,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/324",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 31,
+				"isLeaf": false,
+				"name": "天津",
+				"children": [
+					{
+						"id": 325,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/325",
+						"isRoot": false,
+						"parentId": 324,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 326,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/326",
+						"isRoot": false,
+						"parentId": 324,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 6,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 327,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/327",
+						"isRoot": false,
+						"parentId": 324,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 14,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 329,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/329",
+						"isRoot": false,
+						"parentId": 324,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 594,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/594",
+						"isRoot": false,
+						"parentId": 324,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 354,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/354",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 57,
+				"isLeaf": false,
+				"name": "重庆",
+				"children": [
+					{
+						"id": 355,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/355",
+						"isRoot": false,
+						"parentId": 354,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 17,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 356,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/356",
+						"isRoot": false,
+						"parentId": 354,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 357,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/357",
+						"isRoot": false,
+						"parentId": 354,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 20,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 358,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/358",
+						"isRoot": false,
+						"parentId": 354,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 359,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/359",
+						"isRoot": false,
+						"parentId": 354,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 599,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/599",
+						"isRoot": false,
+						"parentId": 354,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 168,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/168",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 111,
+				"isLeaf": false,
+				"name": "安徽",
+				"children": [
+					{
+						"id": 169,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/169",
+						"isRoot": false,
+						"parentId": 168,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 39,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 170,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/170",
+						"isRoot": false,
+						"parentId": 168,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 171,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/171",
+						"isRoot": false,
+						"parentId": 168,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 20,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 172,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/172",
+						"isRoot": false,
+						"parentId": 168,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 173,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/173",
+						"isRoot": false,
+						"parentId": 168,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 569,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/569",
+						"isRoot": false,
+						"parentId": 168,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 20,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 174,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/174",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 8,
+				"isLeaf": false,
+				"name": "澳门",
+				"children": [
+					{
+						"id": 175,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/175",
+						"isRoot": false,
+						"parentId": 174,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 176,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/176",
+						"isRoot": false,
+						"parentId": 174,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 177,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/177",
+						"isRoot": false,
+						"parentId": 174,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 178,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/178",
+						"isRoot": false,
+						"parentId": 174,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 570,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/570",
+						"isRoot": false,
+						"parentId": 174,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 186,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/186",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 88,
+				"isLeaf": false,
+				"name": "福建",
+				"children": [
+					{
+						"id": 187,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/187",
+						"isRoot": false,
+						"parentId": 186,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 32,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 188,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/188",
+						"isRoot": false,
+						"parentId": 186,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 16,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 189,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/189",
+						"isRoot": false,
+						"parentId": 186,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 19,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 190,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/190",
+						"isRoot": false,
+						"parentId": 186,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 191,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/191",
+						"isRoot": false,
+						"parentId": 186,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 572,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/572",
+						"isRoot": false,
+						"parentId": 186,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 192,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/192",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 60,
+				"isLeaf": false,
+				"name": "甘肃",
+				"children": [
+					{
+						"id": 193,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/193",
+						"isRoot": false,
+						"parentId": 192,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 27,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 194,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/194",
+						"isRoot": false,
+						"parentId": 192,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 195,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/195",
+						"isRoot": false,
+						"parentId": 192,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 12,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 197,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/197",
+						"isRoot": false,
+						"parentId": 192,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 573,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/573",
+						"isRoot": false,
+						"parentId": 192,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 198,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/198",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 268,
+				"isLeaf": false,
+				"name": "广东",
+				"children": [
+					{
+						"id": 199,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/199",
+						"isRoot": false,
+						"parentId": 198,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 62,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 200,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/200",
+						"isRoot": false,
+						"parentId": 198,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 69,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 201,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/201",
+						"isRoot": false,
+						"parentId": 198,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 50,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 202,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/202",
+						"isRoot": false,
+						"parentId": 198,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 6,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 203,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/203",
+						"isRoot": false,
+						"parentId": 198,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 45,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 574,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/574",
+						"isRoot": false,
+						"parentId": 198,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 36,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 204,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/204",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 86,
+				"isLeaf": false,
+				"name": "广西",
+				"children": [
+					{
+						"id": 205,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/205",
+						"isRoot": false,
+						"parentId": 204,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 25,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 206,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/206",
+						"isRoot": false,
+						"parentId": 204,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 22,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 207,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/207",
+						"isRoot": false,
+						"parentId": 204,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 208,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/208",
+						"isRoot": false,
+						"parentId": 204,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 209,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/209",
+						"isRoot": false,
+						"parentId": 204,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 575,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/575",
+						"isRoot": false,
+						"parentId": 204,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 18,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 210,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/210",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 48,
+				"isLeaf": false,
+				"name": "贵州",
+				"children": [
+					{
+						"id": 211,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/211",
+						"isRoot": false,
+						"parentId": 210,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 20,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 212,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/212",
+						"isRoot": false,
+						"parentId": 210,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 213,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/213",
+						"isRoot": false,
+						"parentId": 210,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 214,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/214",
+						"isRoot": false,
+						"parentId": 210,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 215,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/215",
+						"isRoot": false,
+						"parentId": 210,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 6,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 576,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/576",
+						"isRoot": false,
+						"parentId": 210,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 216,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/216",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 21,
+				"isLeaf": false,
+				"name": "海南",
+				"children": [
+					{
+						"id": 217,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/217",
+						"isRoot": false,
+						"parentId": 216,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 218,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/218",
+						"isRoot": false,
+						"parentId": 216,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 219,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/219",
+						"isRoot": false,
+						"parentId": 216,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 220,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/220",
+						"isRoot": false,
+						"parentId": 216,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 221,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/221",
+						"isRoot": false,
+						"parentId": 216,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 577,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/577",
+						"isRoot": false,
+						"parentId": 216,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 222,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/222",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 108,
+				"isLeaf": false,
+				"name": "河北",
+				"children": [
+					{
+						"id": 223,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/223",
+						"isRoot": false,
+						"parentId": 222,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 44,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 224,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/224",
+						"isRoot": false,
+						"parentId": 222,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 225,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/225",
+						"isRoot": false,
+						"parentId": 222,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 23,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 226,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/226",
+						"isRoot": false,
+						"parentId": 222,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 227,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/227",
+						"isRoot": false,
+						"parentId": 222,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 578,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/578",
+						"isRoot": false,
+						"parentId": 222,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 228,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/228",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 130,
+				"isLeaf": false,
+				"name": "河南",
+				"children": [
+					{
+						"id": 229,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/229",
+						"isRoot": false,
+						"parentId": 228,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 52,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 230,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/230",
+						"isRoot": false,
+						"parentId": 228,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 22,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 231,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/231",
+						"isRoot": false,
+						"parentId": 228,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 23,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 233,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/233",
+						"isRoot": false,
+						"parentId": 228,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 579,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/579",
+						"isRoot": false,
+						"parentId": 228,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 24,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 234,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/234",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 60,
+				"isLeaf": false,
+				"name": "黑龙江",
+				"children": [
+					{
+						"id": 235,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/235",
+						"isRoot": false,
+						"parentId": 234,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 236,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/236",
+						"isRoot": false,
+						"parentId": 234,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 237,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/237",
+						"isRoot": false,
+						"parentId": 234,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 239,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/239",
+						"isRoot": false,
+						"parentId": 234,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 580,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/580",
+						"isRoot": false,
+						"parentId": 234,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 240,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/240",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 128,
+				"isLeaf": false,
+				"name": "湖北",
+				"children": [
+					{
+						"id": 241,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/241",
+						"isRoot": false,
+						"parentId": 240,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 34,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 242,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/242",
+						"isRoot": false,
+						"parentId": 240,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 25,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 243,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/243",
+						"isRoot": false,
+						"parentId": 240,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 20,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 244,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/244",
+						"isRoot": false,
+						"parentId": 240,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 245,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/245",
+						"isRoot": false,
+						"parentId": 240,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 23,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 581,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/581",
+						"isRoot": false,
+						"parentId": 240,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 24,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 246,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/246",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 96,
+				"isLeaf": false,
+				"name": "湖南",
+				"children": [
+					{
+						"id": 247,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/247",
+						"isRoot": false,
+						"parentId": 246,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 33,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 248,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/248",
+						"isRoot": false,
+						"parentId": 246,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 249,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/249",
+						"isRoot": false,
+						"parentId": 246,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 250,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/250",
+						"isRoot": false,
+						"parentId": 246,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 251,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/251",
+						"isRoot": false,
+						"parentId": 246,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 582,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/582",
+						"isRoot": false,
+						"parentId": 246,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 17,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 252,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/252",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 43,
+				"isLeaf": false,
+				"name": "吉林",
+				"children": [
+					{
+						"id": 253,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/253",
+						"isRoot": false,
+						"parentId": 252,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 14,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 254,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/254",
+						"isRoot": false,
+						"parentId": 252,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 255,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/255",
+						"isRoot": false,
+						"parentId": 252,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 257,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/257",
+						"isRoot": false,
+						"parentId": 252,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 583,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/583",
+						"isRoot": false,
+						"parentId": 252,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 258,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/258",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 183,
+				"isLeaf": false,
+				"name": "江苏",
+				"children": [
+					{
+						"id": 259,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/259",
+						"isRoot": false,
+						"parentId": 258,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 65,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 260,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/260",
+						"isRoot": false,
+						"parentId": 258,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 30,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 261,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/261",
+						"isRoot": false,
+						"parentId": 258,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 39,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 262,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/262",
+						"isRoot": false,
+						"parentId": 258,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 263,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/263",
+						"isRoot": false,
+						"parentId": 258,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 584,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/584",
+						"isRoot": false,
+						"parentId": 258,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 32,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 264,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/264",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 79,
+				"isLeaf": false,
+				"name": "江西",
+				"children": [
+					{
+						"id": 265,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/265",
+						"isRoot": false,
+						"parentId": 264,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 27,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 266,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/266",
+						"isRoot": false,
+						"parentId": 264,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 267,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/267",
+						"isRoot": false,
+						"parentId": 264,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 269,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/269",
+						"isRoot": false,
+						"parentId": 264,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 585,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/585",
+						"isRoot": false,
+						"parentId": 264,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 16,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 270,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/270",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 84,
+				"isLeaf": false,
+				"name": "辽宁",
+				"children": [
+					{
+						"id": 271,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/271",
+						"isRoot": false,
+						"parentId": 270,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 272,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/272",
+						"isRoot": false,
+						"parentId": 270,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 23,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 273,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/273",
+						"isRoot": false,
+						"parentId": 270,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 19,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 275,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/275",
+						"isRoot": false,
+						"parentId": 270,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 6,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 586,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/586",
+						"isRoot": false,
+						"parentId": 270,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 276,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/276",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 85,
+				"isLeaf": false,
+				"name": "内蒙古",
+				"children": [
+					{
+						"id": 277,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/277",
+						"isRoot": false,
+						"parentId": 276,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 52,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 278,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/278",
+						"isRoot": false,
+						"parentId": 276,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 279,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/279",
+						"isRoot": false,
+						"parentId": 276,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 281,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/281",
+						"isRoot": false,
+						"parentId": 276,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 587,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/587",
+						"isRoot": false,
+						"parentId": 276,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 554,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/554",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 21,
+				"isLeaf": false,
+				"name": "宁夏",
+				"children": [
+					{
+						"id": 556,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/556",
+						"isRoot": false,
+						"parentId": 554,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 557,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/557",
+						"isRoot": false,
+						"parentId": 554,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 559,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/559",
+						"isRoot": false,
+						"parentId": 554,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 602,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/602",
+						"isRoot": false,
+						"parentId": 554,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 6,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 282,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/282",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 18,
+				"isLeaf": false,
+				"name": "青海",
+				"children": [
+					{
+						"id": 283,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/283",
+						"isRoot": false,
+						"parentId": 282,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 284,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/284",
+						"isRoot": false,
+						"parentId": 282,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 287,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/287",
+						"isRoot": false,
+						"parentId": 282,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 588,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/588",
+						"isRoot": false,
+						"parentId": 282,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 288,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/288",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 148,
+				"isLeaf": false,
+				"name": "山东",
+				"children": [
+					{
+						"id": 289,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/289",
+						"isRoot": false,
+						"parentId": 288,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 47,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 290,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/290",
+						"isRoot": false,
+						"parentId": 288,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 22,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 291,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/291",
+						"isRoot": false,
+						"parentId": 288,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 40,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 292,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/292",
+						"isRoot": false,
+						"parentId": 288,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 293,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/293",
+						"isRoot": false,
+						"parentId": 288,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 589,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/589",
+						"isRoot": false,
+						"parentId": 288,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 22,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 294,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/294",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 87,
+				"isLeaf": false,
+				"name": "山西",
+				"children": [
+					{
+						"id": 295,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/295",
+						"isRoot": false,
+						"parentId": 294,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 29,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 296,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/296",
+						"isRoot": false,
+						"parentId": 294,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 14,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 297,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/297",
+						"isRoot": false,
+						"parentId": 294,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 18,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 298,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/298",
+						"isRoot": false,
+						"parentId": 294,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 299,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/299",
+						"isRoot": false,
+						"parentId": 294,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 12,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 590,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/590",
+						"isRoot": false,
+						"parentId": 294,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 300,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/300",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 79,
+				"isLeaf": false,
+				"name": "陕西",
+				"children": [
+					{
+						"id": 301,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/301",
+						"isRoot": false,
+						"parentId": 300,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 28,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 302,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/302",
+						"isRoot": false,
+						"parentId": 300,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 19,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 303,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/303",
+						"isRoot": false,
+						"parentId": 300,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 305,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/305",
+						"isRoot": false,
+						"parentId": 300,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 591,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/591",
+						"isRoot": false,
+						"parentId": 300,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 12,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 312,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/312",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 136,
+				"isLeaf": false,
+				"name": "四川",
+				"children": [
+					{
+						"id": 313,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/313",
+						"isRoot": false,
+						"parentId": 312,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 45,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 314,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/314",
+						"isRoot": false,
+						"parentId": 312,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 29,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 315,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/315",
+						"isRoot": false,
+						"parentId": 312,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 24,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 316,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/316",
+						"isRoot": false,
+						"parentId": 312,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 317,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/317",
+						"isRoot": false,
+						"parentId": 312,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 568,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/568",
+						"isRoot": false,
+						"parentId": 312,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 25,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 318,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/318",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 34,
+				"isLeaf": false,
+				"name": "台湾",
+				"children": [
+					{
+						"id": 319,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/319",
+						"isRoot": false,
+						"parentId": 318,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 25,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 320,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/320",
+						"isRoot": false,
+						"parentId": 318,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 321,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/321",
+						"isRoot": false,
+						"parentId": 318,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 323,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/323",
+						"isRoot": false,
+						"parentId": 318,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 593,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/593",
+						"isRoot": false,
+						"parentId": 318,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 330,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/330",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 10,
+				"isLeaf": false,
+				"name": "香港",
+				"children": [
+					{
+						"id": 331,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/331",
+						"isRoot": false,
+						"parentId": 330,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 332,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/332",
+						"isRoot": false,
+						"parentId": 330,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 333,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/333",
+						"isRoot": false,
+						"parentId": 330,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 335,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/335",
+						"isRoot": false,
+						"parentId": 330,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 595,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/595",
+						"isRoot": false,
+						"parentId": 330,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 336,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/336",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 57,
+				"isLeaf": false,
+				"name": "新疆",
+				"children": [
+					{
+						"id": 337,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/337",
+						"isRoot": false,
+						"parentId": 336,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 32,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 338,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/338",
+						"isRoot": false,
+						"parentId": 336,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 339,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/339",
+						"isRoot": false,
+						"parentId": 336,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 341,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/341",
+						"isRoot": false,
+						"parentId": 336,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 596,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/596",
+						"isRoot": false,
+						"parentId": 336,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 18,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 555,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/555",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 14,
+				"isLeaf": false,
+				"name": "西藏",
+				"children": [
+					{
+						"id": 561,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/561",
+						"isRoot": false,
+						"parentId": 555,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 564,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/564",
+						"isRoot": false,
+						"parentId": 555,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 603,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/603",
+						"isRoot": false,
+						"parentId": 555,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 342,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/342",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 75,
+				"isLeaf": false,
+				"name": "云南",
+				"children": [
+					{
+						"id": 343,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/343",
+						"isRoot": false,
+						"parentId": 342,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 30,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 344,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/344",
+						"isRoot": false,
+						"parentId": 342,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 17,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 345,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/345",
+						"isRoot": false,
+						"parentId": 342,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 346,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/346",
+						"isRoot": false,
+						"parentId": 342,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 347,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/347",
+						"isRoot": false,
+						"parentId": 342,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 597,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/597",
+						"isRoot": false,
+						"parentId": 342,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 12,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 348,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/348",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 220,
+				"isLeaf": false,
+				"name": "浙江",
+				"children": [
+					{
+						"id": 349,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/349",
+						"isRoot": false,
+						"parentId": 348,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 130,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 350,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/350",
+						"isRoot": false,
+						"parentId": 348,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 22,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 351,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/351",
+						"isRoot": false,
+						"parentId": 348,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 38,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 352,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/352",
+						"isRoot": false,
+						"parentId": 348,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 353,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/353",
+						"isRoot": false,
+						"parentId": 348,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 598,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/598",
+						"isRoot": false,
+						"parentId": 348,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 16,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 360,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/360",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 107,
+				"isLeaf": false,
+				"name": "全国",
+				"children": [
+					{
+						"id": 361,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/361",
+						"isRoot": false,
+						"parentId": 360,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 25,
+						"isLeaf": true,
+						"name": "行政区划地名"
+					},
+					{
+						"id": 362,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/362",
+						"isRoot": false,
+						"parentId": 360,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "道路交通地名"
+					},
+					{
+						"id": 363,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/363",
+						"isRoot": false,
+						"parentId": 360,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 64,
+						"isLeaf": true,
+						"name": "单位机构名"
+					},
+					{
+						"id": 364,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/364",
+						"isRoot": false,
+						"parentId": 360,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "风景名胜"
+					},
+					{
+						"id": 365,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/365",
+						"isRoot": false,
+						"parentId": 360,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "方言"
+					},
+					{
+						"id": 600,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/600",
+						"isRoot": false,
+						"parentId": 360,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 366,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/366",
+				"isRoot": false,
+				"parentId": 167,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 35,
+				"isLeaf": true,
+				"name": "国外地名"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/1",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 362,
+		"isLeaf": false,
+		"name": "nav_1",
+		"children": [
+			{
+				"id": 2,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/2",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 34,
+				"isLeaf": true,
+				"name": "数学"
+			},
+			{
+				"id": 3,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/3",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 34,
+				"isLeaf": false,
+				"name": "物理",
+				"children": [
+					{
+						"id": 4,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/4",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "电学"
+					},
+					{
+						"id": 5,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/5",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "电磁学"
+					},
+					{
+						"id": 6,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/6",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "光学"
+					},
+					{
+						"id": 7,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/7",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "力学"
+					},
+					{
+						"id": 8,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/8",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "声学"
+					},
+					{
+						"id": 9,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/9",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "热学"
+					},
+					{
+						"id": 10,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/10",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "量子物理"
+					},
+					{
+						"id": 11,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/11",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "生物物理"
+					},
+					{
+						"id": 12,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/12",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "普通物理"
+					},
+					{
+						"id": 552,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/552",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "核物理"
+					},
+					{
+						"id": 630,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/630",
+						"isRoot": false,
+						"parentId": 3,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 13,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/13",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 29,
+				"isLeaf": true,
+				"name": "化学"
+			},
+			{
+				"id": 14,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/14",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 129,
+				"isLeaf": false,
+				"name": "生物",
+				"children": [
+					{
+						"id": 15,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/15",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 49,
+						"isLeaf": true,
+						"name": "动物"
+					},
+					{
+						"id": 16,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/16",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 44,
+						"isLeaf": true,
+						"name": "植物"
+					},
+					{
+						"id": 17,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/17",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "微生物"
+					},
+					{
+						"id": 18,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/18",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "分子生物学"
+					},
+					{
+						"id": 19,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/19",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "古生物学"
+					},
+					{
+						"id": 20,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/20",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "昆虫学"
+					},
+					{
+						"id": 21,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/21",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "生态学"
+					},
+					{
+						"id": 22,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/22",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "生物化学"
+					},
+					{
+						"id": 23,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/23",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "生物信息学"
+					},
+					{
+						"id": 24,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/24",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "普通生物学"
+					},
+					{
+						"id": 25,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/25",
+						"isRoot": false,
+						"parentId": 14,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "细胞生物学"
+					}
+				]
+			},
+			{
+				"id": 26,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/26",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 51,
+				"isLeaf": true,
+				"name": "地理地质"
+			},
+			{
+				"id": 27,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/27",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 8,
+				"isLeaf": true,
+				"name": "海洋学"
+			},
+			{
+				"id": 28,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/28",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 17,
+				"isLeaf": true,
+				"name": "气象学"
+			},
+			{
+				"id": 29,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/29",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 24,
+				"isLeaf": true,
+				"name": "天文学"
+			},
+			{
+				"id": 30,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/30",
+				"isRoot": false,
+				"parentId": 1,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 36,
+				"isLeaf": true,
+				"name": "其它"
+			}
+		]
+	},
+	{
+		"id": 76,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/76",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 595,
+		"isLeaf": false,
+		"name": "nav_76",
+		"children": [
+			{
+				"id": 77,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/77",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 145,
+				"isLeaf": false,
+				"name": "经济管理",
+				"children": [
+					{
+						"id": 78,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/78",
+						"isRoot": false,
+						"parentId": 77,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 38,
+						"isLeaf": true,
+						"name": "财务会计"
+					},
+					{
+						"id": 79,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/79",
+						"isRoot": false,
+						"parentId": 77,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 13,
+						"isLeaf": true,
+						"name": "管理科学与工程"
+					},
+					{
+						"id": 80,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/80",
+						"isRoot": false,
+						"parentId": 77,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 49,
+						"isLeaf": true,
+						"name": "金融保险"
+					},
+					{
+						"id": 81,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/81",
+						"isRoot": false,
+						"parentId": 77,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 18,
+						"isLeaf": true,
+						"name": "经济学"
+					},
+					{
+						"id": 82,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/82",
+						"isRoot": false,
+						"parentId": 77,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "人力资源与组织行为学"
+					},
+					{
+						"id": 83,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/83",
+						"isRoot": false,
+						"parentId": 77,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 20,
+						"isLeaf": true,
+						"name": "商务营销贸易"
+					}
+				]
+			},
+			{
+				"id": 84,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/84",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 58,
+				"isLeaf": true,
+				"name": "公共管理"
+			},
+			{
+				"id": 85,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/85",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 94,
+				"isLeaf": true,
+				"name": "法律"
+			},
+			{
+				"id": 86,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/86",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 31,
+				"isLeaf": true,
+				"name": "广告传媒"
+			},
+			{
+				"id": 87,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/87",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 79,
+				"isLeaf": true,
+				"name": "教育教学"
+			},
+			{
+				"id": 88,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/88",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 1,
+				"isLeaf": true,
+				"name": "伦理学"
+			},
+			{
+				"id": 89,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/89",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 21,
+				"isLeaf": true,
+				"name": "社会学"
+			},
+			{
+				"id": 90,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/90",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 22,
+				"isLeaf": true,
+				"name": "心理学"
+			},
+			{
+				"id": 91,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/91",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 26,
+				"isLeaf": true,
+				"name": "政治学"
+			},
+			{
+				"id": 92,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/92",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 3,
+				"isLeaf": true,
+				"name": "档案学"
+			},
+			{
+				"id": 93,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/93",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 48,
+				"isLeaf": true,
+				"name": "军事"
+			},
+			{
+				"id": 94,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/94",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 17,
+				"isLeaf": true,
+				"name": "房地产"
+			},
+			{
+				"id": 95,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/95",
+				"isRoot": false,
+				"parentId": 76,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 50,
+				"isLeaf": true,
+				"name": "其它"
+			}
+		]
+	},
+	{
+		"id": 96,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/96",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 971,
+		"isLeaf": false,
+		"name": "nav_96",
+		"children": [
+			{
+				"id": 97,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/97",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 269,
+				"isLeaf": false,
+				"name": "计算机",
+				"children": [
+					{
+						"id": 98,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/98",
+						"isRoot": false,
+						"parentId": 97,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 114,
+						"isLeaf": true,
+						"name": "互联网"
+					},
+					{
+						"id": 99,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/99",
+						"isRoot": false,
+						"parentId": 97,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "硬件"
+					},
+					{
+						"id": 100,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/100",
+						"isRoot": false,
+						"parentId": 97,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 73,
+						"isLeaf": true,
+						"name": "软件"
+					},
+					{
+						"id": 101,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/101",
+						"isRoot": false,
+						"parentId": 97,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "人工智能"
+					},
+					{
+						"id": 102,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/102",
+						"isRoot": false,
+						"parentId": 97,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 47,
+						"isLeaf": true,
+						"name": "计算机科技"
+					},
+					{
+						"id": 644,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/644",
+						"isRoot": false,
+						"parentId": 97,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 103,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/103",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 65,
+				"isLeaf": true,
+				"name": "电力电气"
+			},
+			{
+				"id": 104,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/104",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 35,
+				"isLeaf": true,
+				"name": "电子工程"
+			},
+			{
+				"id": 105,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/105",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 9,
+				"isLeaf": true,
+				"name": "船舶工程"
+			},
+			{
+				"id": 106,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/106",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 25,
+				"isLeaf": true,
+				"name": "纺织服装"
+			},
+			{
+				"id": 107,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/107",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 41,
+				"isLeaf": true,
+				"name": "钢铁冶金"
+			},
+			{
+				"id": 108,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/108",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 15,
+				"isLeaf": true,
+				"name": "工业设计"
+			},
+			{
+				"id": 109,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/109",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 41,
+				"isLeaf": true,
+				"name": "化工"
+			},
+			{
+				"id": 110,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/110",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 8,
+				"isLeaf": true,
+				"name": "材料科学"
+			},
+			{
+				"id": 111,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/111",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 38,
+				"isLeaf": true,
+				"name": "环境能源"
+			},
+			{
+				"id": 112,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/112",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 83,
+				"isLeaf": true,
+				"name": "机械工程"
+			},
+			{
+				"id": 113,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/113",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 84,
+				"isLeaf": true,
+				"name": "建筑"
+			},
+			{
+				"id": 114,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/114",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 47,
+				"isLeaf": true,
+				"name": "交通运输物流"
+			},
+			{
+				"id": 115,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/115",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 37,
+				"isLeaf": true,
+				"name": "矿业勘探"
+			},
+			{
+				"id": 116,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/116",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 31,
+				"isLeaf": true,
+				"name": "汽车工程"
+			},
+			{
+				"id": 117,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/117",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 10,
+				"isLeaf": true,
+				"name": "水利工程"
+			},
+			{
+				"id": 118,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/118",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 16,
+				"isLeaf": true,
+				"name": "通信与无线电"
+			},
+			{
+				"id": 119,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/119",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 31,
+				"isLeaf": true,
+				"name": "土木结构"
+			},
+			{
+				"id": 120,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/120",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 10,
+				"isLeaf": true,
+				"name": "印刷印染"
+			},
+			{
+				"id": 121,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/121",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 5,
+				"isLeaf": true,
+				"name": "造纸"
+			},
+			{
+				"id": 122,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/122",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 7,
+				"isLeaf": true,
+				"name": "质量工程"
+			},
+			{
+				"id": 123,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/123",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 8,
+				"isLeaf": true,
+				"name": "安全工程"
+			},
+			{
+				"id": 124,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/124",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 4,
+				"isLeaf": true,
+				"name": "包装"
+			},
+			{
+				"id": 125,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/125",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 12,
+				"isLeaf": true,
+				"name": "测绘工程与地图"
+			},
+			{
+				"id": 126,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/126",
+				"isRoot": false,
+				"parentId": 96,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 40,
+				"isLeaf": true,
+				"name": "其它"
+			}
+		]
+	},
+	{
+		"id": 127,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/127",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 121,
+		"isLeaf": false,
+		"name": "nav_127",
+		"children": [
+			{
+				"id": 128,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/128",
+				"isRoot": false,
+				"parentId": 127,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 9,
+				"isLeaf": true,
+				"name": "林业"
+			},
+			{
+				"id": 129,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/129",
+				"isRoot": false,
+				"parentId": 127,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 79,
+				"isLeaf": true,
+				"name": "农业"
+			},
+			{
+				"id": 130,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/130",
+				"isRoot": false,
+				"parentId": 127,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 21,
+				"isLeaf": true,
+				"name": "畜牧业"
+			},
+			{
+				"id": 131,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/131",
+				"isRoot": false,
+				"parentId": 127,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 12,
+				"isLeaf": true,
+				"name": "渔业"
+			}
+		]
+	},
+	{
+		"id": 132,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/132",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 403,
+		"isLeaf": false,
+		"name": "nav_132",
+		"children": [
+			{
+				"id": 133,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/133",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 40,
+				"isLeaf": true,
+				"name": "基础医学"
+			},
+			{
+				"id": 134,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/134",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 52,
+				"isLeaf": true,
+				"name": "西药学"
+			},
+			{
+				"id": 135,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/135",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 73,
+				"isLeaf": true,
+				"name": "中医"
+			},
+			{
+				"id": 136,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/136",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 45,
+				"isLeaf": true,
+				"name": "中药"
+			},
+			{
+				"id": 137,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/137",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 2,
+				"isLeaf": true,
+				"name": "针灸"
+			},
+			{
+				"id": 138,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/138",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 18,
+				"isLeaf": true,
+				"name": "疾病"
+			},
+			{
+				"id": 139,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/139",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 5,
+				"isLeaf": true,
+				"name": "超声医学"
+			},
+			{
+				"id": 140,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/140",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 3,
+				"isLeaf": true,
+				"name": "耳鼻喉科"
+			},
+			{
+				"id": 141,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/141",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 2,
+				"isLeaf": true,
+				"name": "法医学"
+			},
+			{
+				"id": 142,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/142",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 4,
+				"isLeaf": true,
+				"name": "护理学"
+			},
+			{
+				"id": 143,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/143",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 12,
+				"isLeaf": true,
+				"name": "解剖学"
+			},
+			{
+				"id": 144,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/144",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 9,
+				"isLeaf": true,
+				"name": "口腔医学"
+			},
+			{
+				"id": 145,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/145",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 11,
+				"isLeaf": true,
+				"name": "美容外科"
+			},
+			{
+				"id": 146,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/146",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 8,
+				"isLeaf": true,
+				"name": "皮肤科"
+			},
+			{
+				"id": 147,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/147",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 5,
+				"isLeaf": true,
+				"name": "兽医"
+			},
+			{
+				"id": 148,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/148",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 20,
+				"isLeaf": true,
+				"name": "医疗器械"
+			},
+			{
+				"id": 149,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/149",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 5,
+				"isLeaf": true,
+				"name": "医学影像学"
+			},
+			{
+				"id": 150,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/150",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 1,
+				"isLeaf": true,
+				"name": "肿瘤形态学"
+			},
+			{
+				"id": 151,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/151",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 3,
+				"isLeaf": true,
+				"name": "医学检验"
+			},
+			{
+				"id": 152,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/152",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 34,
+				"isLeaf": true,
+				"name": "医疗"
+			},
+			{
+				"id": 550,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/550",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 8,
+				"isLeaf": true,
+				"name": "外科"
+			},
+			{
+				"id": 153,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/153",
+				"isRoot": false,
+				"parentId": 132,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 43,
+				"isLeaf": true,
+				"name": "其它"
+			}
+		]
+	},
+	{
+		"id": 436,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/436",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 1363,
+		"isLeaf": false,
+		"name": "nav_436",
+		"children": [
+			{
+				"id": 437,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/437",
+				"isRoot": false,
+				"parentId": 436,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 246,
+				"isLeaf": false,
+				"name": "单机游戏",
+				"children": [
+					{
+						"id": 606,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/606",
+						"isRoot": false,
+						"parentId": 437,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 96,
+						"isLeaf": true,
+						"name": "角色扮演"
+					},
+					{
+						"id": 607,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/607",
+						"isRoot": false,
+						"parentId": 437,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "运动休闲"
+					},
+					{
+						"id": 608,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/608",
+						"isRoot": false,
+						"parentId": 437,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 17,
+						"isLeaf": true,
+						"name": "射击游戏"
+					},
+					{
+						"id": 609,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/609",
+						"isRoot": false,
+						"parentId": 437,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "回合游戏"
+					},
+					{
+						"id": 610,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/610",
+						"isRoot": false,
+						"parentId": 437,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 66,
+						"isLeaf": true,
+						"name": "策略经营"
+					},
+					{
+						"id": 611,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/611",
+						"isRoot": false,
+						"parentId": 437,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 55,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 461,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/461",
+				"isRoot": false,
+				"parentId": 436,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 901,
+				"isLeaf": false,
+				"name": "网络游戏",
+				"children": [
+					{
+						"id": 612,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/612",
+						"isRoot": false,
+						"parentId": 461,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 463,
+						"isLeaf": true,
+						"name": "角色扮演"
+					},
+					{
+						"id": 613,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/613",
+						"isRoot": false,
+						"parentId": 461,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 95,
+						"isLeaf": true,
+						"name": "运动休闲"
+					},
+					{
+						"id": 614,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/614",
+						"isRoot": false,
+						"parentId": 461,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 111,
+						"isLeaf": true,
+						"name": "射击游戏"
+					},
+					{
+						"id": 615,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/615",
+						"isRoot": false,
+						"parentId": 461,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 109,
+						"isLeaf": true,
+						"name": "回合游戏"
+					},
+					{
+						"id": 616,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/616",
+						"isRoot": false,
+						"parentId": 461,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 42,
+						"isLeaf": true,
+						"name": "策略经营"
+					},
+					{
+						"id": 617,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/617",
+						"isRoot": false,
+						"parentId": 461,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 81,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 604,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/604",
+				"isRoot": false,
+				"parentId": 436,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 72,
+				"isLeaf": false,
+				"name": "网页游戏",
+				"children": [
+					{
+						"id": 618,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/618",
+						"isRoot": false,
+						"parentId": 604,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 19,
+						"isLeaf": true,
+						"name": "角色扮演"
+					},
+					{
+						"id": 619,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/619",
+						"isRoot": false,
+						"parentId": 604,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "运动休闲"
+					},
+					{
+						"id": 620,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/620",
+						"isRoot": false,
+						"parentId": 604,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "射击游戏"
+					},
+					{
+						"id": 621,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/621",
+						"isRoot": false,
+						"parentId": 604,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "回合游戏"
+					},
+					{
+						"id": 622,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/622",
+						"isRoot": false,
+						"parentId": 604,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 17,
+						"isLeaf": true,
+						"name": "策略经营"
+					},
+					{
+						"id": 623,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/623",
+						"isRoot": false,
+						"parentId": 604,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 14,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 605,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/605",
+				"isRoot": false,
+				"parentId": 436,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 144,
+				"isLeaf": false,
+				"name": "手机游戏",
+				"children": [
+					{
+						"id": 624,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/624",
+						"isRoot": false,
+						"parentId": 605,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 38,
+						"isLeaf": true,
+						"name": "角色扮演"
+					},
+					{
+						"id": 625,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/625",
+						"isRoot": false,
+						"parentId": 605,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "运动休闲"
+					},
+					{
+						"id": 626,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/626",
+						"isRoot": false,
+						"parentId": 605,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 12,
+						"isLeaf": true,
+						"name": "射击游戏"
+					},
+					{
+						"id": 627,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/627",
+						"isRoot": false,
+						"parentId": 605,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 19,
+						"isLeaf": true,
+						"name": "回合游戏"
+					},
+					{
+						"id": 628,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/628",
+						"isRoot": false,
+						"parentId": 605,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 23,
+						"isLeaf": true,
+						"name": "策略经营"
+					},
+					{
+						"id": 629,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/629",
+						"isRoot": false,
+						"parentId": 605,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 45,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 154,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/154",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 231,
+		"isLeaf": false,
+		"name": "nav_154",
+		"children": [
+			{
+				"id": 155,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/155",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 13,
+				"isLeaf": true,
+				"name": "刺绣织染"
+			},
+			{
+				"id": 156,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/156",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 6,
+				"isLeaf": true,
+				"name": "金属工艺"
+			},
+			{
+				"id": 157,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/157",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 17,
+				"isLeaf": true,
+				"name": "书法篆刻"
+			},
+			{
+				"id": 158,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/158",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 3,
+				"isLeaf": true,
+				"name": "雕塑"
+			},
+			{
+				"id": 159,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/159",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 53,
+				"isLeaf": true,
+				"name": "绘画"
+			},
+			{
+				"id": 160,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/160",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 37,
+				"isLeaf": true,
+				"name": "曲艺"
+			},
+			{
+				"id": 161,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/161",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 22,
+				"isLeaf": true,
+				"name": "摄影"
+			},
+			{
+				"id": 162,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/162",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 4,
+				"isLeaf": true,
+				"name": "陶瓷"
+			},
+			{
+				"id": 163,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/163",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 13,
+				"isLeaf": true,
+				"name": "舞蹈"
+			},
+			{
+				"id": 164,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/164",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 41,
+				"isLeaf": false,
+				"name": "音乐",
+				"children": [
+					{
+						"id": 165,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/165",
+						"isRoot": false,
+						"parentId": 164,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 16,
+						"isLeaf": true,
+						"name": "名家名作"
+					},
+					{
+						"id": 166,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/166",
+						"isRoot": false,
+						"parentId": 164,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 22,
+						"isLeaf": true,
+						"name": "音乐术语"
+					},
+					{
+						"id": 648,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/648",
+						"isRoot": false,
+						"parentId": 164,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 646,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/646",
+				"isRoot": false,
+				"parentId": 154,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 22,
+				"isLeaf": true,
+				"name": "其他"
+			}
+		]
+	},
+	{
+		"id": 389,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/389",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 1160,
+		"isLeaf": false,
+		"name": "nav_389",
+		"children": [
+			{
+				"id": 390,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/390",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 74,
+				"isLeaf": false,
+				"name": "理财",
+				"children": [
+					{
+						"id": 391,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/391",
+						"isRoot": false,
+						"parentId": 390,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "博彩类"
+					},
+					{
+						"id": 392,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/392",
+						"isRoot": false,
+						"parentId": 390,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 66,
+						"isLeaf": true,
+						"name": "金融投资类"
+					}
+				]
+			},
+			{
+				"id": 393,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/393",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 89,
+				"isLeaf": true,
+				"name": "家居装饰"
+			},
+			{
+				"id": 394,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/394",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 26,
+				"isLeaf": true,
+				"name": "家用电器"
+			},
+			{
+				"id": 395,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/395",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 72,
+				"isLeaf": true,
+				"name": "美容护肤"
+			},
+			{
+				"id": 396,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/396",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 18,
+				"isLeaf": true,
+				"name": "习俗"
+			},
+			{
+				"id": 397,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/397",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 89,
+				"isLeaf": true,
+				"name": "服饰"
+			},
+			{
+				"id": 398,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/398",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 29,
+				"isLeaf": true,
+				"name": "礼品"
+			},
+			{
+				"id": 399,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/399",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 43,
+				"isLeaf": true,
+				"name": "旅游"
+			},
+			{
+				"id": 400,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/400",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 305,
+				"isLeaf": true,
+				"name": "日常"
+			},
+			{
+				"id": 401,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/401",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 168,
+				"isLeaf": true,
+				"name": "办公文教"
+			},
+			{
+				"id": 402,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/402",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 164,
+				"isLeaf": true,
+				"name": "饮食"
+			},
+			{
+				"id": 551,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/551",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 7,
+				"isLeaf": true,
+				"name": "美发"
+			},
+			{
+				"id": 650,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/650",
+				"isRoot": false,
+				"parentId": 389,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 76,
+				"isLeaf": true,
+				"name": "其他"
+			}
+		]
+	},
+	{
+		"id": 367,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/367",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 199,
+		"isLeaf": false,
+		"name": "nav_367",
+		"children": [
+			{
+				"id": 368,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/368",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 69,
+				"isLeaf": false,
+				"name": "球类",
+				"children": [
+					{
+						"id": 369,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/369",
+						"isRoot": false,
+						"parentId": 368,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "棒球"
+					},
+					{
+						"id": 370,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/370",
+						"isRoot": false,
+						"parentId": 368,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 16,
+						"isLeaf": true,
+						"name": "篮球"
+					},
+					{
+						"id": 371,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/371",
+						"isRoot": false,
+						"parentId": 368,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "乒乓球"
+					},
+					{
+						"id": 372,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/372",
+						"isRoot": false,
+						"parentId": 368,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 44,
+						"isLeaf": true,
+						"name": "足球"
+					},
+					{
+						"id": 652,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/652",
+						"isRoot": false,
+						"parentId": 368,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "排球"
+					},
+					{
+						"id": 656,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/656",
+						"isRoot": false,
+						"parentId": 368,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 373,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/373",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 37,
+				"isLeaf": false,
+				"name": "棋牌类",
+				"children": [
+					{
+						"id": 374,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/374",
+						"isRoot": false,
+						"parentId": 373,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "麻将"
+					},
+					{
+						"id": 375,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/375",
+						"isRoot": false,
+						"parentId": 373,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "围棋"
+					},
+					{
+						"id": 376,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/376",
+						"isRoot": false,
+						"parentId": 373,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "象棋"
+					},
+					{
+						"id": 377,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/377",
+						"isRoot": false,
+						"parentId": 373,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "休闲牌类"
+					},
+					{
+						"id": 553,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/553",
+						"isRoot": false,
+						"parentId": 373,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "桥牌"
+					}
+				]
+			},
+			{
+				"id": 378,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/378",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 5,
+				"isLeaf": true,
+				"name": "F1赛车"
+			},
+			{
+				"id": 379,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/379",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 2,
+				"isLeaf": true,
+				"name": "跆拳道"
+			},
+			{
+				"id": 380,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/380",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 1,
+				"isLeaf": true,
+				"name": "太极拳"
+			},
+			{
+				"id": 381,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/381",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 4,
+				"isLeaf": true,
+				"name": "气功"
+			},
+			{
+				"id": 382,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/382",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 9,
+				"isLeaf": true,
+				"name": "武术"
+			},
+			{
+				"id": 383,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/383",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 8,
+				"isLeaf": true,
+				"name": "奥运"
+			},
+			{
+				"id": 384,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/384",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 5,
+				"isLeaf": true,
+				"name": "垂钓"
+			},
+			{
+				"id": 385,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/385",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 2,
+				"isLeaf": true,
+				"name": "轮滑"
+			},
+			{
+				"id": 386,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/386",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 6,
+				"isLeaf": true,
+				"name": "自行车"
+			},
+			{
+				"id": 387,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/387",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 2,
+				"isLeaf": true,
+				"name": "杀人游戏"
+			},
+			{
+				"id": 388,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/388",
+				"isRoot": false,
+				"parentId": 367,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 49,
+				"isLeaf": true,
+				"name": "其它"
+			}
+		]
+	},
+	{
+		"id": 31,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/31",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 1196,
+		"isLeaf": false,
+		"name": "nav_31",
+		"children": [
+			{
+				"id": 32,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/32",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 122,
+				"isLeaf": false,
+				"name": "历史",
+				"children": [
+					{
+						"id": 33,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/33",
+						"isRoot": false,
+						"parentId": 32,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 6,
+						"isLeaf": true,
+						"name": "历史地理"
+					},
+					{
+						"id": 34,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/34",
+						"isRoot": false,
+						"parentId": 32,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 33,
+						"isLeaf": true,
+						"name": "历史名人"
+					},
+					{
+						"id": 35,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/35",
+						"isRoot": false,
+						"parentId": 32,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "世界历史"
+					},
+					{
+						"id": 36,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/36",
+						"isRoot": false,
+						"parentId": 32,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 60,
+						"isLeaf": true,
+						"name": "中国古代史"
+					},
+					{
+						"id": 37,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/37",
+						"isRoot": false,
+						"parentId": 32,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "中国近现代史"
+					},
+					{
+						"id": 634,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/634",
+						"isRoot": false,
+						"parentId": 32,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 38,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/38",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 529,
+				"isLeaf": false,
+				"name": "文学",
+				"children": [
+					{
+						"id": 39,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/39",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "红楼梦"
+					},
+					{
+						"id": 40,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/40",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 70,
+						"isLeaf": true,
+						"name": "经典名著"
+					},
+					{
+						"id": 41,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/41",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 10,
+						"isLeaf": true,
+						"name": "科幻"
+					},
+					{
+						"id": 42,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/42",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 56,
+						"isLeaf": true,
+						"name": "流行作品"
+					},
+					{
+						"id": 43,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/43",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "毛泽东诗词"
+					},
+					{
+						"id": 44,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/44",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "民间文学"
+					},
+					{
+						"id": 45,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/45",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 52,
+						"isLeaf": true,
+						"name": "奇幻玄幻"
+					},
+					{
+						"id": 46,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/46",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "三国演义"
+					},
+					{
+						"id": 47,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/47",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 142,
+						"isLeaf": true,
+						"name": "诗词歌赋"
+					},
+					{
+						"id": 48,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/48",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 45,
+						"isLeaf": true,
+						"name": "实用写作"
+					},
+					{
+						"id": 49,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/49",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "水浒传"
+					},
+					{
+						"id": 50,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/50",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "武侠"
+					},
+					{
+						"id": 51,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/51",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 16,
+						"isLeaf": true,
+						"name": "言情"
+					},
+					{
+						"id": 52,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/52",
+						"isRoot": false,
+						"parentId": 38,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 67,
+						"isLeaf": true,
+						"name": "其它"
+					}
+				]
+			},
+			{
+				"id": 53,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/53",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 167,
+				"isLeaf": false,
+				"name": "语言",
+				"children": [
+					{
+						"id": 54,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/54",
+						"isRoot": false,
+						"parentId": 53,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 38,
+						"isLeaf": true,
+						"name": "成语"
+					},
+					{
+						"id": 55,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/55",
+						"isRoot": false,
+						"parentId": 53,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "俗语"
+					},
+					{
+						"id": 56,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/56",
+						"isRoot": false,
+						"parentId": 53,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 14,
+						"isLeaf": true,
+						"name": "流行新词"
+					},
+					{
+						"id": 57,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/57",
+						"isRoot": false,
+						"parentId": 53,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "谜语"
+					},
+					{
+						"id": 58,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/58",
+						"isRoot": false,
+						"parentId": 53,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 16,
+						"isLeaf": true,
+						"name": "外语"
+					},
+					{
+						"id": 59,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/59",
+						"isRoot": false,
+						"parentId": 53,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "网络流行用语"
+					},
+					{
+						"id": 60,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/60",
+						"isRoot": false,
+						"parentId": 53,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 56,
+						"isLeaf": true,
+						"name": "语言学"
+					},
+					{
+						"id": 636,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/636",
+						"isRoot": false,
+						"parentId": 53,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 8,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 61,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/61",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 55,
+				"isLeaf": false,
+				"name": "哲学",
+				"children": [
+					{
+						"id": 62,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/62",
+						"isRoot": false,
+						"parentId": 61,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "马克思主义哲学"
+					},
+					{
+						"id": 63,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/63",
+						"isRoot": false,
+						"parentId": 61,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "西方哲学"
+					},
+					{
+						"id": 64,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/64",
+						"isRoot": false,
+						"parentId": 61,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 38,
+						"isLeaf": true,
+						"name": "中国哲学"
+					},
+					{
+						"id": 65,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/65",
+						"isRoot": false,
+						"parentId": 61,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 5,
+						"isLeaf": true,
+						"name": "哲学史"
+					},
+					{
+						"id": 638,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/638",
+						"isRoot": false,
+						"parentId": 61,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 66,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/66",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 150,
+				"isLeaf": false,
+				"name": "宗教",
+				"children": [
+					{
+						"id": 67,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/67",
+						"isRoot": false,
+						"parentId": 66,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 15,
+						"isLeaf": true,
+						"name": "道教"
+					},
+					{
+						"id": 68,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/68",
+						"isRoot": false,
+						"parentId": 66,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 90,
+						"isLeaf": true,
+						"name": "佛教"
+					},
+					{
+						"id": 69,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/69",
+						"isRoot": false,
+						"parentId": 66,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 33,
+						"isLeaf": true,
+						"name": "基督教"
+					},
+					{
+						"id": 70,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/70",
+						"isRoot": false,
+						"parentId": 66,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "伊斯兰教"
+					},
+					{
+						"id": 640,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/640",
+						"isRoot": false,
+						"parentId": 66,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 1,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 71,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/71",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 14,
+				"isLeaf": true,
+				"name": "考古"
+			},
+			{
+				"id": 72,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/72",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 9,
+				"isLeaf": true,
+				"name": "伦理学"
+			},
+			{
+				"id": 73,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/73",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 32,
+				"isLeaf": true,
+				"name": "人类学"
+			},
+			{
+				"id": 74,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/74",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 10,
+				"isLeaf": true,
+				"name": "神学"
+			},
+			{
+				"id": 75,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/75",
+				"isRoot": false,
+				"parentId": 31,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 108,
+				"isLeaf": true,
+				"name": "其它"
+			}
+		]
+	},
+	{
+		"id": 403,
+		"fullUrl": "https://pinyin.sogou.com/dict/cate/index/403",
+		"isRoot": true,
+		"parentId": 0,
+		"isCate": false,
+		"level": 0,
+		"dictTotal": 1402,
+		"isLeaf": false,
+		"name": "nav_403",
+		"children": [
+			{
+				"id": 404,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/404",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 342,
+				"isLeaf": false,
+				"name": "动漫",
+				"children": [
+					{
+						"id": 405,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/405",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 181,
+						"isLeaf": true,
+						"name": "新番"
+					},
+					{
+						"id": 406,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/406",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 9,
+						"isLeaf": true,
+						"name": "网球王子"
+					},
+					{
+						"id": 407,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/407",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 11,
+						"isLeaf": true,
+						"name": "死神"
+					},
+					{
+						"id": 408,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/408",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 21,
+						"isLeaf": true,
+						"name": "守护甜心"
+					},
+					{
+						"id": 409,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/409",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "圣斗士"
+					},
+					{
+						"id": 410,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/410",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "犬夜叉"
+					},
+					{
+						"id": 411,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/411",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "叛逆的鲁鲁修"
+					},
+					{
+						"id": 412,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/412",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 26,
+						"isLeaf": true,
+						"name": "名侦探柯南"
+					},
+					{
+						"id": 413,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/413",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 2,
+						"isLeaf": true,
+						"name": "乱马"
+					},
+					{
+						"id": 414,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/414",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 12,
+						"isLeaf": true,
+						"name": "家庭教师Reborn"
+					},
+					{
+						"id": 415,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/415",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "机器猫"
+					},
+					{
+						"id": 416,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/416",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 18,
+						"isLeaf": true,
+						"name": "火影忍者"
+					},
+					{
+						"id": 417,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/417",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "海贼王"
+					},
+					{
+						"id": 418,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/418",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 7,
+						"isLeaf": true,
+						"name": "宠物小精灵"
+					},
+					{
+						"id": 666,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/666",
+						"isRoot": false,
+						"parentId": 404,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 40,
+						"isLeaf": true,
+						"name": "其他"
+					}
+				]
+			},
+			{
+				"id": 420,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/420",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 23,
+				"isLeaf": false,
+				"name": "收藏",
+				"children": [
+					{
+						"id": 421,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/421",
+						"isRoot": false,
+						"parentId": 420,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 4,
+						"isLeaf": true,
+						"name": "古玩"
+					},
+					{
+						"id": 422,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/422",
+						"isRoot": false,
+						"parentId": 420,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 3,
+						"isLeaf": true,
+						"name": "邮票"
+					},
+					{
+						"id": 425,
+						"fullUrl": "https://pinyin.sogou.com/dict/cate/index/425",
+						"isRoot": false,
+						"parentId": 420,
+						"isCate": true,
+						"level": 2,
+						"dictTotal": 16,
+						"isLeaf": true,
+						"name": "其它"
+					}
+				]
+			},
+			{
+				"id": 426,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/426",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 254,
+				"isLeaf": true,
+				"name": "电影电视"
+			},
+			{
+				"id": 427,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/427",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 88,
+				"isLeaf": true,
+				"name": "流行音乐"
+			},
+			{
+				"id": 428,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/428",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 36,
+				"isLeaf": true,
+				"name": "时尚品牌"
+			},
+			{
+				"id": 429,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/429",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 322,
+				"isLeaf": true,
+				"name": "明星"
+			},
+			{
+				"id": 430,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/430",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 7,
+				"isLeaf": true,
+				"name": "模型"
+			},
+			{
+				"id": 431,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/431",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 3,
+				"isLeaf": true,
+				"name": "魔术"
+			},
+			{
+				"id": 432,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/432",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 22,
+				"isLeaf": true,
+				"name": "汽车"
+			},
+			{
+				"id": 433,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/433",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 3,
+				"isLeaf": true,
+				"name": "烟草"
+			},
+			{
+				"id": 434,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/434",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 15,
+				"isLeaf": true,
+				"name": "宠物"
+			},
+			{
+				"id": 435,
+				"fullUrl": "https://pinyin.sogou.com/dict/cate/index/435",
+				"isRoot": false,
+				"parentId": 403,
+				"isCate": true,
+				"level": 1,
+				"dictTotal": 287,
+				"isLeaf": true,
+				"name": "其它"
+			}
+		]
+	}
+]
