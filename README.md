@@ -1,0 +1,2 @@
+# sougou_cell_dict
+node抓取搜狗拼音输入法的细胞词库链接并下载到本地
