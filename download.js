@@ -18,6 +18,8 @@ if (!fs.existsSync(downloadsDir)) {
 }
 
 function DownloadQueue(cellDicts, total, errorList, maxDownloadPerQueue) {
+    //maxDownloadPerQueue防止调用栈溢出
+    
     function _run(times = 1) {
         return new Promise(function (resolve, reject) {
             if (cellDicts.length == 0) return resolve();
